@@ -27,8 +27,13 @@ public class NewClass2 {
         //CONVERSION DE TIPO ENTERO A TIPO STRING
         var edadTexto= String.valueOf(10);
         System.out.println("edadTexto = " + edadTexto);
+        var entrada = new Scanner (System.in);
+        var fraseChar = "programadores".charAt(0); // va a mostrar la posicion de la letra
+        System.out.println("fraseChar = " + fraseChar);
         
-        
+        System.out.println("Digite una frase = " );
+        fraseChar = entrada.nextLine().charAt(0);
+        System.out.println("fraseChar = " + fraseChar);
         
         
         

@@ -18,6 +18,8 @@ public class EjercicioScanner {
         System.out.println("Digite su nombre = "  );
         var usuario = entrada.nextLine();
         System.out.println("usuario = " + usuario);
+        var numeroEntero = 20;
+        System.out.println("numeroEntero = " + numeroEntero);
         
         
     }

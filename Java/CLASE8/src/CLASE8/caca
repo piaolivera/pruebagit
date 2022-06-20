@@ -1,0 +1,23 @@
+// operadores unario cambio de signo
+package caca;
+
+/**
+ *
+ * @author piaol
+ */
+public class caca {
+    public static void main(String[] args) {
+       var varA= 7;
+       var varB= -varA;
+        System.out.println("varA = " + varA);
+        System.out.println("varB = " + varB);
+        
+
+        //operador negacion
+        var varC= true;
+        var varD= !varC;
+        sou
+        
+        
+    }
+}
