@@ -1,2 +1,2 @@
-mi primer repositorio git 
-Actualizado el readme
+HOLA MUNDO
+mi primer repositorio UTN Bs As.
